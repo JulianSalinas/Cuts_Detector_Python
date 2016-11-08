@@ -2,5 +2,5 @@
 versión sin tensorflow # 1 by Julian 
 
 
-Solo lo subi por varas pero no esta completo todavia
+No toquen esta mierda porque esta mal
 
